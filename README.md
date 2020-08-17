@@ -6,6 +6,8 @@ You can find me at my blog [AstroNote!](https://daichidaiji.com).
 
 - iOS Developer at YUMEMI, Tokyo
 - Bachelor of Engineering, Department of Aerospace Engineering, Tohoku University
+  - [My guraduation paper is here.](https://github.com/daichikuwa0618/TohokuUniThesis/blob/master/thesis.pdf)
+  - Don't try to read this. Over 80 pages...
 - Department of Electronic Control Engineering, National Institute of Technology, Yonago College
 
 <!--
