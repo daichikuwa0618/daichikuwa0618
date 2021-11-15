@@ -10,7 +10,7 @@ You can find me at my blog [AstroNote!](https://daichidaiji.com).
   - Don't try to read this. Over 80 pages...
 - Department of Electronic Control Engineering, National Institute of Technology, Yonago College
 
-[![Daichi's github stats](https://github-readme-stats.vercel.app/api?username=daichikuwa0618)](https://github.com/anuraghazra/github-readme-stats)
+[![Daichi's github stats](https://github-readme-stats.vercel.app/api?username=daichikuwa0618&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daichikuwa0618&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
