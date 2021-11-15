@@ -9,5 +9,5 @@
 - 米子高専電子制御工学科卒
 
 
-[![Daichi's github stats](https://github-readme-stats.vercel.app/api?username=daichikuwa0618)](https://github.com/anuraghazra/github-readme-stats)
+[![Daichi's github stats](https://github-readme-stats.vercel.app/api?username=daichikuwa0618&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daichikuwa0618&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
