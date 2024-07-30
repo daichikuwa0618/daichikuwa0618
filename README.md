@@ -13,5 +13,4 @@
 - Bachelor of Engineering, Department of Aerospace Engineering, Tohoku University
 - Department of Electronic Control Engineering, National Institute of Technology, Yonago College
 
-[![Daichi's github stats](https://github-readme-stats.vercel.app/api?username=daichikuwa0618&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daichikuwa0618&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daichikuwa0618&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
